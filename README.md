@@ -18,7 +18,8 @@
   <img align="right" alt="kiara-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/816442276183408651/928804643662876682/picasion.com_1f278884c449e9b3c928abc92488ca62.gif">
 </div>
   
-
+<br>
+> "Quando se quer muito alguma coisa sempre tem um preço a ser pago no final." 🔌🌎
  
   ![Snake animation](https://github.com/Kiara177-pixel/Kiara177-pixel/blob/output/github-contribution-grid-snake.svg)
  
